@@ -9,5 +9,5 @@ I'm Dmitry, Junior Frontend-developer JavaScript from Russia, Saint-Petersburg.
 
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skredmi&layout=compact&theme=tokyonight)
-
+![GitHub language count](https://img.shields.io/github/languages/count/skredmi/5)
 
