@@ -1,6 +1,6 @@
 ### Hi, welcome to my page 👋
 
-I'm Dmitriy, Junior Frontend-developer JavaScript from Russia, Saint-Petersburg.  
+I'm Dmitry, Junior Frontend-developer JavaScript from Russia, Saint-Petersburg.  
 ***
 :wrench: Tools  
   
